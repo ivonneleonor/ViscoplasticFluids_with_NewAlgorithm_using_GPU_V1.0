@@ -1,0 +1,6 @@
+  real*8, parameter   :: timeinterval = 1.0d0	
+  real*8 :: auxtime
+  
+   auxtime = timeinterval
+   
+   auxtime = auxtime + timeinterval
